@@ -1,0 +1,33 @@
+table, th, td {
+    border: 1px solid black;
+    vertical-align: top;
+}
+
+body > h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.queue-table {
+    margin: 25px;
+    float: left;
+}
+
+.student-form {
+    margin: 25px;
+    float: left;
+}
+
+.pop-button {
+    border-radius: 10px;
+    border: 2px solid #f6f7fa;
+    color: white;
+    background-color: #5e6ad6;
+    margin: 40px;
+    padding: 10px;
+    border-width: medium;
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+    text-decoration: none;
+}
